@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowmang1&theme=synthwave&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Learning
-[<img src="images/LLVM_logo.png" alt="LLVM" width="50"/>](llvm.org)
+[<img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM" width="50"/>](https://llvm.org)
