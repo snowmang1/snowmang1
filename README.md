@@ -11,5 +11,3 @@
 
 # Learning
 [<img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM" width="50"/>](https://llvm.org)
-
-#### Blog is currently under construction, now in pure Rust & Tailwinds
