@@ -1,5 +1,4 @@
-# Passion for Kernel design and Compiler design
-# Currently an intern at Liatrio <img src="images/quality_ferrets.png" alt="quality ferret" width="50"/>
+# Passion for Compiler design
 
 # Curent personal projects
 [![Sxeme](https://github-readme-stats.vercel.app/api/pin/?username=snowmang1&repo=sxeme&theme=synthwave)](https://github.com/snowmang1/sxeme)
