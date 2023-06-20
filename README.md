@@ -10,3 +10,5 @@
 
 # Learning
 [<img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM" width="50"/>](https://llvm.org)
+
+<!-- The fancy card are from anuraghazra/github-readme-stats -->
