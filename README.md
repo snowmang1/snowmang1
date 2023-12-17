@@ -2,7 +2,6 @@
 
 # Curent personal projects
 [![Sxeme](https://github-readme-stats.vercel.app/api/pin/?username=snowmang1&repo=sxeme&theme=synthwave)](https://github.com/snowmang1/sxeme)
-[![Blog](https://github-readme-stats.vercel.app/api/pin/?username=snowmang1&repo=snow_blog&theme=synthwave)](https://github.com/snowmang1/snow_blog)
 
 # Stats
 ![snowmang1 stats](https://github-readme-stats.vercel.app/api?username=snowmang1&show_icons=true&theme=synthwave)
