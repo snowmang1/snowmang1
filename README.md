@@ -1,13 +1,8 @@
-# Passion for Compiler design
+# Blog
+This is my Github page and it houses code & writing only now.
+You can see what I am up too on my [Blog](https://snowmang1.github.io/).
 
-# Curent personal projects
-[![Sxeme](https://github-readme-stats.vercel.app/api/pin/?username=snowmang1&repo=sxeme&theme=synthwave)](https://github.com/snowmang1/sxeme)
-
-# Stats
+# Github Stats
 ![snowmang1 stats](https://github-readme-stats.vercel.app/api?username=snowmang1&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowmang1&theme=synthwave&langs_count=6&layout=compact)
-
-# Learning
-[<img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM" width="50"/>](https://llvm.org)
-
 <!-- The fancy card are from anuraghazra/github-readme-stats -->
